@@ -61,8 +61,8 @@ For best experience use [this](https://github.com/Mottie/GitHub-userscripts/wiki
       <td><a href="https://boards.4channel.org/g/thread/97654751/#q97655348">>>97655348</a></td>
       <td><a href="https://files.catbox.moe/3ryjl4.7z">https://files.catbox.moe/3ryjl4.7z</a></td>
       <td>500M (unpacked)</td>
-      <td>1015650986459</td>
-      <td>?</td>
+      <td>1015650580002</td>
+      <td>17780992265</td>
     </tr>
   </tbody>
 </table>
