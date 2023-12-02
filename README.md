@@ -45,10 +45,10 @@ For best experience use [this](https://github.com/Mottie/GitHub-userscripts/wiki
       <td>12M</td>
     </tr>
     <tr>
-      <td>?</td>
+      <td>2023-02</td>
       <td>?</td>
       <td><a href="https://files.catbox.moe/3ryjl4.7z">https://files.catbox.moe/3ryjl4.7z</a></td>
-      <td>79M</td>
+      <td>500M (unpacked)</td>
     </tr>
   </tbody>
 </table>
