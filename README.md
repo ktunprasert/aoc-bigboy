@@ -18,7 +18,7 @@ For best experience use [this](https://github.com/Mottie/GitHub-userscripts/wiki
   <tbody>
     <tr>
       <td>2023-01</td>
-      <td>?</td>
+      <td><a href="https://boards.4channel.org/g/thread/97631113/#q97635949">>>97635949</a></td>
       <td><a href="https://0x0.st/HxMf.txt">https://0x0.st/HxMf.txt</a></td>
       <td>21M</td>
       <td>55022487</td>
@@ -26,7 +26,7 @@ For best experience use [this](https://github.com/Mottie/GitHub-userscripts/wiki
     </tr>
     <tr>
       <td>2023-01</td>
-      <td>?</td>
+      <td><a href="https://boards.4channel.org/g/thread/97631113/#q97636176">>>97636176</a></td>
       <td><a href="https://bpa.st/raw/BEEQ">https://bpa.st/raw/BEEQ</a></td>
       <td>74K (wiiiiide)</td>
       <td>231</td>
@@ -42,7 +42,7 @@ For best experience use [this](https://github.com/Mottie/GitHub-userscripts/wiki
     </tr>
     <tr>
       <td>2023-02</td>
-      <td>?</td>
+      <td><a href="https://boards.4channel.org/g/thread/97654751/#q97655273">>>97655273</a></td>
       <td><a href="https://0x0.st/HxLF.txt.7z">https://0x0.st/HxLF.txt.7z</a></td>
       <td>79M</td>
       <td>71327370192</td>
@@ -50,7 +50,7 @@ For best experience use [this](https://github.com/Mottie/GitHub-userscripts/wiki
     </tr>
     <tr>
       <td>2023-02</td>
-      <td>?</td>
+      <td><a href="https://boards.4channel.org/g/thread/97648857/#q97654653">>>97654653</a></td>
       <td><a href="https://files.catbox.moe/bvnzno.7z">https://files.catbox.moe/bvnzno.7z</a></td>
       <td>12M</td>
       <td>71327370192</td>
@@ -58,10 +58,10 @@ For best experience use [this](https://github.com/Mottie/GitHub-userscripts/wiki
     </tr>
     <tr>
       <td>2023-02</td>
-      <td>?</td>
+      <td><a href="https://boards.4channel.org/g/thread/97654751/#q97655348">>>97655348</a></td>
       <td><a href="https://files.catbox.moe/3ryjl4.7z">https://files.catbox.moe/3ryjl4.7z</a></td>
       <td>500M (unpacked)</td>
-      <td>?</td>
+      <td>1015650986459</td>
       <td>?</td>
     </tr>
   </tbody>
