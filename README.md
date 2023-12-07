@@ -93,8 +93,8 @@ For best experience use [this](https://github.com/Mottie/GitHub-userscripts/wiki
       <td><a href="https://boards.4channel.org/g/thread/97729402/#q97731441">>>97731441</a></td>
       <td><a href="https://paste.sh/Uuhps41z#pLo4GbfoiyVqfHmXZsIEwiEL">https://paste.sh/Uuhps41z#pLo4GbfoiyVqfHmXZsIEwiEL</a></td>
       <td>?</td>
-      <td><a href="https://paste.sh/H9mKJ0h3#J89EmMpuwcgonEQYYiSJxDmj">https://paste.sh/H9mKJ0h3#J89EmMpuwcgonEQYYiSJxDmj</a></td>
-      <td><a href="https://paste.sh/_83wTk_L#_cQQIVV3qt4NF_kpSkB1S0Gt">https://paste.sh/_83wTk_L#_cQQIVV3qt4NF_kpSkB1S0Gt</a></td>
+      <td><a href="https://paste.sh/H9mKJ0h3#J89EmMpuwcgonEQYYiSJxDmj">Link</a></td>
+      <td><a href="https://paste.sh/_83wTk_L#_cQQIVV3qt4NF_kpSkB1S0Gt">Link</a></td>
     </tr>
     <tr>
       <td>2023-07</td>
