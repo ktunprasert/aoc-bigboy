@@ -116,5 +116,14 @@ For best experience use [this](https://github.com/Mottie/GitHub-userscripts/wiki
       <td>7246011492564128</td>
       <td>✔</td>
     </tr>
+    <tr>
+      <td>2023-08</td>
+      <td><a href="https://boards.4channel.org/g/thread/97771317#p97771390">>>97771390</a></td>
+      <td><a href="https://0x0.st/H3cq.txt">H3cq.txt</a></td>
+      <td>1.5M</td>
+      <td>1488003</td>
+      <td>2214154416012</td>
+      <td>✔</td>
+    </tr>
   </tbody>
 </table>
